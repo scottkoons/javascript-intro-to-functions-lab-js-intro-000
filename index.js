@@ -16,7 +16,7 @@ function logWhisper(string) {
 }
 console.log(logWhisper("HELLO"));
 
-const sayHiToGandma;
+var sayHiToGandma;
 function sayHiToGandma(string) {
     if (string === string.toUpperCase()) {
         return "YES INDEED!";
