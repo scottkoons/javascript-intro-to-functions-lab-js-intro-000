@@ -27,5 +27,5 @@ function sayHiToGandma(string) {
         return "I love you, too.";
     }
 }
-var sayHiToGandma;
-console.log(sayHiToGandma('I love you, Grandma!'));
+// var sayHiToGandma;
+// console.log(sayHiToGandma('I love you, Grandma!'));
